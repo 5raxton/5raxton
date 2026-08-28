@@ -32,15 +32,12 @@
 
 <div align="center">
 
-![Braxton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=5raxton&show_icons=true&theme=gruvbox&hide_border=true&count_private=true)
+![Braxton's GitHub Stats](https://github-stats-extended.vercel.app/api?username=5raxton&show_icons=true&theme=gruvbox&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=5raxton&theme=gruvbox&hide_border=true)
+![GitHub Streak](https://github-stats-extended.vercel.app/?user=5raxton&theme=gruvbox&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5raxton&layout=compact&theme=gruvbox&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=5raxton&layout=compact&theme=gruvbox&hide_border=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=5raxton&theme=gruvbox&no-frame=true&row=1&column=7)
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=5raxton&theme=gruvbox&hide_border=true)
 
 </div>
 
