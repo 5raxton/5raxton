@@ -34,8 +34,6 @@
 
 ![Braxton's GitHub Stats](https://github-stats-extended.vercel.app/api?username=5raxton&show_icons=true&theme=gruvbox&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-stats-extended.vercel.app/?user=5raxton&theme=gruvbox&hide_border=true)
-
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=5raxton&layout=compact&theme=gruvbox&hide_border=true)
 
 
