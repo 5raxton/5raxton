@@ -11,14 +11,3 @@
 ## 🌟 About Me
 
 - 🔭 **My Projects:** This page is just a mirror of my personal git repo. To view where my repos are originally hosted, click here: https://lab.braxton.onl/
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Braxton's GitHub Stats](https://github-stats-extended.vercel.app/api?username=5raxton&show_icons=true&theme=gruvbox&hide_border=true&count_private=true)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=5raxton&layout=compact&theme=gruvbox&hide_border=true)
-
-
-</div>
