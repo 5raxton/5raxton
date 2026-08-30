@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-- 🔭 **Currently building:** Conduit IDE, a Rust-based code editor, and Kyokai, a modern Wayland compositor and desktop shell.
+- 🔭 **My Projects:** My GitHub just mirrors my personal git repo, everything is hosted here originally: https://lab.braxton.onl/
 - 🌱 **Learning:** C++, Go, Rust
 - 👯 **Open to:** Anything!
 
